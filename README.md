@@ -1,7 +1,6 @@
 # AutomacaoEmail
-Projeto de Teste para envio de e-mail. com Tipo de Corpo de e-mail padrão para diferente destinatários. cadastrado.
+Projeto de Teste para envio de e-mail. Com Tipo de Corpo de e-mail padrão para diferente destinatário cadastrado.
 
-Projeto conta com ideia de facilida a quantidade de email repetitivos para fornecedores.
-sendo assim estou fazendo um automaçao aode o usuario cadastra todos os email, para que depois cadastra o layout do corpo dos email automatico.
+Projeto conta com ideia de facilita a quantidade de email repetitivos para fornecedores. Sendo assim estou fazendo uma automação aonde o usuário cadastra todos os emails, para que depois cadastra o layout do corpo do email automático.
 
-fazendo que o processo do email repetitivos seja mas agilizado para os fornecedores.
+Fazendo que o processo do email repetitivos seja, mas agilizado para os fornecedores.
